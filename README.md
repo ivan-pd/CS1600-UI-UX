@@ -1,2 +1,3 @@
-# WiseBankingRedesign
-CS1300 UI/UX Website Redesign &amp; User Testing
+# CS1600 UI/UX
+This repository contains some of design docs I created as part of CS1600: User Interfaces and User Experinces.
+
